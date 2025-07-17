@@ -1,2 +1,26 @@
-# TUNNELBEAR-CHECKER
-Tunnelbear Checker — A simple and efficient Python tool to verify TunnelBear account validity via their API. Reads a combos file (email:password), checks each account, and saves valid accounts to valids.txt
+# Tunnelbear Checker
+
+![Tunnelbear Checker](https://img.shields.io/badge/Tunnelbear-Checker-green)
+
+## Description
+
+Tunnelbear Checker is a Python script that verifies TunnelBear account credentials using their official API.  
+It reads a combos file (email:password format), tests each account, and saves valid accounts in a `valids.txt` file.
+
+The script features a simple, colorized console interface that displays results in real-time.
+
+## Features
+
+- Checks TunnelBear accounts through the API.
+- Handles errors and rate limiting (e.g., too many requests).
+- Automatically saves valid accounts.
+- Color-coded console output.
+- Compatible with Windows and Linux terminals.
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/tunnelbear-checker.git
+   cd tunnelbear-checker
