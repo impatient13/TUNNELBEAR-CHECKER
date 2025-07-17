@@ -1,7 +1,5 @@
 # Tunnelbear Checker
 
-![Tunnelbear Checker](https://img.shields.io/badge/Tunnelbear-Checker-green)
-
 ## Description
 
 Tunnelbear Checker is a Python script that verifies TunnelBear account credentials using their official API.  
