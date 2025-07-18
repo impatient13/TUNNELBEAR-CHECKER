@@ -25,5 +25,5 @@ SCREEN:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/tunnelbear-checker.git
+   git clone https://github.com/impatient13/tunnelbear-checker.git
    cd tunnelbear-checker
